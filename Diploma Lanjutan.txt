@@ -1,0 +1,17 @@
+Diploma Lanjutan Kebidanan: Total = 6598, Max = 1203, Min = 962
+Diploma Lanjutan Penjagaan Rapi: Total = 771, Max = 147, Min = 113
+Diploma Lanjutan Perawatan Perioperatif: Total = 802, Max = 160, Min = 104
+Diploma Lanjutan Kesihatan Kardiovascular: Total = 719, Max = 136, Min = 107
+Diploma Lanjutan Perawatan Onkologi: Total = 260, Max = 55, Min = 0
+Diploma Lanjutan Perawatan Gerontologi: Total = 158, Max = 57, Min = 11
+Diploma Lanjutan Sitologi: Total = 58, Max = 24, Min = 0
+Diploma Lanjutan Transfusi Darah: Total = 38, Max = 38, Min = 0
+Diploma Lanjutan Histopatologi: Total = 14, Max = 14, Min = 0
+Diploma Lanjutan Pengimejan Perubatan (Payudara): Total = 50, Max = 16, Min = 0
+Diploma Lanjutan Haematologi: Total = 70, Max = 27, Min = 0
+Diploma Lanjutan Penjagaan Paliatif: Total = 108, Max = 20, Min = 17
+Diploma Lanjutan Perawatan Kesihatan Mental: Total = 482, Max = 98, Min = 61
+Diploma Lanjutan Penjagaan Kecemasan: Total = 2422, Max = 535, Min = 235
+Diploma Lanjutan Pengurusan Penjagaan Kesihatan: Total = 119, Max = 39, Min = 0
+Diploma Lanjutan Penjagaan Respiratori: Total = 59, Max = 27, Min = 0
+Diploma Lanjutan Rehabilitasi Neuro: Total = 30, Max = 25, Min = 0

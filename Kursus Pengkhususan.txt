@@ -1,0 +1,45 @@
+Perawatan Renal/ Nefrologi: Total = 2157, Max = 381, Min = 331
+Kejururawatan Kesihatan Awam: Total = 1634, Max = 326, Min = 206
+Perawatan Pediatrik: Total = 1440, Max = 283, Min = 182
+Perawatan Ortopedik: Total = 1393, Max = 249, Min = 200
+Perawatan Neonat: Total = 1115, Max = 237, Min = 140
+Pengurusan Diabetis: Total = 1034, Max = 233, Min = 142
+Kawalan Infeksi: Total = 987, Max = 176, Min = 143
+Perawatan Oftalmik: Total = 370, Max = 80, Min = 47
+Penjagaan Kesihatan Primer: Total = 427, Max = 109, Min = 52
+Perawatan Perianestesia: Total = 773, Max = 154, Min = 104
+Pengurusan Makmal: Total = 0, Max = 0, Min = 0
+Perawatan Neurosains: Total = 284, Max = 63, Min = 32
+Perawatan Otorinolaringologi: Total = 262, Max = 54, Min = 30
+Perubatan Sukan: Total = 147, Max = 50, Min = 0
+Gastrointestinal Endoscopy: Total = 446, Max = 99, Min = 51
+Penyiasatan & Pendakwaan Undang-Undang: Total = 80, Max = 19, Min = 10
+Perawatan Rehabilitasi: Total = 265, Max = 52, Min = 30
+Rawatan Ortodontik: Total = 77, Max = 26, Min = 0
+Kesihatan Persekitaran: Total = 0, Max = 0, Min = 0
+Anaesthesia: Total = 57, Max = 18, Min = 0
+Rawatan Peridontik: Total = 22, Max = 22, Min = 0
+Kaunseling HIV/AIDS: Total = 322, Max = 98, Min = 14
+Pembedahan Mulut (Maksilofasial): Total = 0, Max = 0, Min = 0
+Kesihatan & Keselamatan Pekerja: Total = 0, Max = 0, Min = 0
+Mikrobiologi Perubatan: Total = 20, Max = 20, Min = 0
+Penjagaan Pergigian Pediatrik: Total = 25, Max = 25, Min = 0
+Hemeostasis: Total = 0, Max = 0, Min = 0
+Sediaan Farmaseutikal Steril: Total = 81, Max = 19, Min = 0
+Patologi Kimia: Total = 0, Max = 0, Min = 0
+Neurofisiologi Klinikal: Total = 10, Max = 10, Min = 0
+Tomografi Berkomputer: Total = 79, Max = 48, Min = 0
+Forensik: Total = 72, Max = 18, Min = 0
+Parasitologi: Total = 0, Max = 0, Min = 0
+Muskulo - Skeletal: Total = 0, Max = 0, Min = 0
+Keselamatan & Kebersihan Makanan: Total = 0, Max = 0, Min = 0
+Prostesis Maksilofasial: Total = 16, Max = 16, Min = 0
+Perancangan Terapi Pancaran: Total = 0, Max = 0, Min = 0
+Bioteknologi: Total = 0, Max = 0, Min = 0
+Cytogenetics: Total = 0, Max = 0, Min = 0
+Epidemiologi dan Kawalan Penyakit: Total = 18, Max = 18, Min = 0
+Kardiopulmonari Fisioterapi: Total = 0, Max = 0, Min = 0
+Neurologi Fisioterapi: Total = 0, Max = 0, Min = 0
+Penjagaan Dermatologi: Total = 59, Max = 36, Min = 0
+Penjagaan Luka: Total = 30, Max = 30, Min = 0
+Penjagaan Reumatologi: Total = 14, Max = 14, Min = 0
