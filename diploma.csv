@@ -1,0 +1,63 @@
+Bil.,Program,Kursus,Sum,Max,Min
+1, Diploma Lanjutan,Diploma Lanjutan Kebidanan,6598,1203,962
+2, Diploma Lanjutan,Diploma Lanjutan Penjagaan Rapi,771,147,113
+3, Diploma Lanjutan,Diploma Lanjutan Perawatan Perioperatif,802,160,104
+4, Diploma Lanjutan,Diploma Lanjutan Kesihatan Kardiovascular,719,136,107
+5, Diploma Lanjutan,Diploma Lanjutan Perawatan Onkologi,260,55,0
+6, Diploma Lanjutan,Diploma Lanjutan Perawatan Gerontologi,158,57,11
+7, Diploma Lanjutan,Diploma Lanjutan Sitologi,58,24,0
+8, Diploma Lanjutan,Diploma Lanjutan Transfusi Darah,38,38,0
+9, Diploma Lanjutan,Diploma Lanjutan Histopatologi,14,14,0
+10, Diploma Lanjutan,Diploma Lanjutan Pengimejan Perubatan (Payudara),50,16,0
+11, Diploma Lanjutan,Diploma Lanjutan Haematologi,70,27,0
+12, Diploma Lanjutan,Diploma Lanjutan Penjagaan Paliatif,108,20,17
+13, Diploma Lanjutan,Diploma Lanjutan Perawatan Kesihatan Mental,482,98,61
+14, Diploma Lanjutan,Diploma Lanjutan Penjagaan Kecemasan,2422,535,235
+15, Diploma Lanjutan,Diploma Lanjutan Pengurusan Penjagaan Kesihatan,119,39,0
+16, Diploma Lanjutan,Diploma Lanjutan Penjagaan Respiratori,59,27,0
+17, Diploma Lanjutan,Diploma Lanjutan Rehabilitasi Neuro,30,25,0
+18,Kursus Pengkhususan,Perawatan Renal/ Nefrologi,2157,381,331
+19,Kursus Pengkhususan,Kejururawatan Kesihatan Awam,1634,326,206
+20,Kursus Pengkhususan,Perawatan Pediatrik,1440,283,182
+21,Kursus Pengkhususan,Perawatan Ortopedik,1393,249,200
+22,Kursus Pengkhususan,Perawatan Neonat,1115,237,140
+23,Kursus Pengkhususan,Pengurusan Diabetis,1034,233,142
+24,Kursus Pengkhususan,Kawalan Infeksi,987,176,143
+25,Kursus Pengkhususan,Perawatan Oftalmik,370,80,47
+26,Kursus Pengkhususan,Penjagaan Kesihatan Primer,427,109,52
+27,Kursus Pengkhususan,Perawatan Perianestesia,773,154,104
+28,Kursus Pengkhususan,Pengurusan Makmal,0,0,0
+29,Kursus Pengkhususan,Perawatan Neurosains,284,63,32
+30,Kursus Pengkhususan,Perawatan Otorinolaringologi,262,54,30
+31,Kursus Pengkhususan,Perubatan Sukan,147,50,0
+32,Kursus Pengkhususan,Gastrointestinal Endoscopy,446,99,51
+33,Kursus Pengkhususan,Penyiasatan & Pendakwaan Undang-Undang,80,19,10
+34,Kursus Pengkhususan,Perawatan Rehabilitasi,265,52,30
+35,Kursus Pengkhususan,Rawatan Ortodontik,77,26,0
+36,Kursus Pengkhususan,Kesihatan Persekitaran,0,0,0
+37,Kursus Pengkhususan,Anaesthesia,57,18,0
+38,Kursus Pengkhususan,Rawatan Peridontik,22,22,0
+39,Kursus Pengkhususan,Kaunseling HIV/AIDS,322,98,14
+40,Kursus Pengkhususan,Pembedahan Mulut (Maksilofasial),0,0,0
+41,Kursus Pengkhususan,Kesihatan & Keselamatan Pekerja,0,0,0
+42,Kursus Pengkhususan,Mikrobiologi Perubatan,20,20,0
+43,Kursus Pengkhususan,Penjagaan Pergigian Pediatrik,25,25,0
+44,Kursus Pengkhususan,Hemeostasis,0,0,0
+45,Kursus Pengkhususan,Sediaan Farmaseutikal Steril,81,19,0
+46,Kursus Pengkhususan,Patologi Kimia,0,0,0
+47,Kursus Pengkhususan,Neurofisiologi Klinikal,10,10,0
+48,Kursus Pengkhususan,Tomografi Berkomputer,79,48,0
+49,Kursus Pengkhususan,Forensik,72,18,0
+50,Kursus Pengkhususan,Parasitologi,0,0,0
+51,Kursus Pengkhususan,Muskulo - Skeletal,0,0,0
+52,Kursus Pengkhususan,Keselamatan & Kebersihan Makanan,0,0,0
+53,Kursus Pengkhususan,Prostesis Maksilofasial,16,16,0
+54,Kursus Pengkhususan,Perancangan Terapi Pancaran,0,0,0
+55,Kursus Pengkhususan,Bioteknologi,0,0,0
+56,Kursus Pengkhususan,Cytogenetics,0,0,0
+57,Kursus Pengkhususan,Epidemiologi dan Kawalan Penyakit,18,18,0
+58,Kursus Pengkhususan,Kardiopulmonari Fisioterapi,0,0,0
+59,Kursus Pengkhususan,Neurologi Fisioterapi,0,0,0
+60,Kursus Pengkhususan,Penjagaan Dermatologi,59,36,0
+61,Kursus Pengkhususan,Penjagaan Luka,30,30,0
+62,Kursus Pengkhususan,Penjagaan Reumatologi,14,14,0
